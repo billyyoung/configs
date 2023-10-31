@@ -1,0 +1,12 @@
+[color]
+    ui = auto
+[alias]
+    co = checkout
+    com = commit
+    cp = cherry-pick
+    br = branch
+    st = status
+    rb = rebase
+    f = fetch
+[core]
+    editor = vim
